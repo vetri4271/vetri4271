@@ -143,12 +143,12 @@ Adaptive encryption on a parallel hardware architecture.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=8A2BE2&text_color=ffffff"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=ffffff"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vetri4271&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=8A2BE2&text_color=ffffff"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vetri4271&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=ffffff"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=8A2BE2&fire=00F5FF&currStreakLabel=00F5FF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vetri4271&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=8A2BE2&fire=00F5FF&currStreakLabel=00F5FF"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&bg_color=0D1117&color=00F5FF&line=8A2BE2&point=ffffff&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vetri4271&theme=tokyo-night&bg_color=0D1117&color=00F5FF&line=8A2BE2&point=ffffff&hide_border=true" width="100%"/>
 
 </div>
 
