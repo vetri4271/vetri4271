@@ -1,220 +1,190 @@
-<div align="center">
+````markdown
+<!-- ==================== FUTURISTIC HEADER ==================== -->
 
-<!-- ===================== HERO BANNER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=Vetrivelan%20B%20R&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60" width="100%"/>
+</p>
 
-<img width="100%" src="YOUR_CUSTOM_ANIMATED_BANNER_HERE"/>
-
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm **Vetrivelan B R**
-
-### ⚡ Embedded Systems Engineer • AI Developer • FPGA Enthusiast • Full Stack Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Electronics+%26+Communication+Engineering;Embedded+Systems+Developer;Artificial+Intelligence+Engineer;Computer+Vision+Developer;FPGA+Designer;Full+Stack+Developer;Always+Learning+Something+New"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=vetri4271&style=for-the-badge&color=00F5FF"/>
-
-<img src="https://img.shields.io/github/followers/vetri4271?style=for-the-badge&color=00F5FF"/>
-
-<img src="https://img.shields.io/github/stars/vetri4271?affiliations=OWNER&style=for-the-badge&color=8A2BE2"/>
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Artificial+Intelligence+Engineer;Full+Stack+Developer;Backend+Developer;DevOps+Enthusiast;Building+Scalable+Systems..." />
+</p>
 
 ---
 
-# ⚡ SYSTEM STATUS
+# > boot.sh
 
-```yaml
-Name        : Vetrivelan B R
+```bash
+██████████████████████████████████ 100%
 
-Role        : Electronics & Communication Engineering Student
+Initializing developer profile...
 
-Location    : Madurai, India
+Loading AI modules.............OK
 
-Status      : Building Intelligent Systems...
+Loading Full Stack modules.....OK
 
-Interests   :
-              • Artificial Intelligence
-              • Embedded Systems
-              • FPGA
-              • Computer Vision
-              • Full Stack Development
-              • System Design
-              • Open Source
+Loading DevOps modules.........OK
 
-Current Mode: Learning • Building • Innovating
-```
+Loading GitHub profile.........OK
+
+Welcome, Visitor.
+````
 
 ---
 
-# 🛰 About Me
+# 👨‍💻 Who Am I
 
 ```cpp
-class Vetrivelan {
+class Developer {
 
 public:
 
-string education =
-"Electronics & Communication Engineering";
+    string name = "Vetrivelan B R";
 
-string university =
-"Thiagarajar College of Engineering";
+    string role = "Software Engineer";
 
-double cgpa = 7.99;
+    vector<string> interests = {
 
-vector<string> interests = {
+        "Artificial Intelligence",
 
-"AI",
+        "Backend Engineering",
 
-"Embedded Systems",
+        "Full Stack Development",
 
-"FPGA",
+        "Cloud Computing",
 
-"Computer Vision",
+        "DevOps",
 
-"Distributed Systems",
+        "Computer Vision"
 
-"Full Stack"
+    };
 
-};
-
-void life(){
-
-Learn();
-
-Build();
-
-Share();
-
-Repeat();
-
-}
+    string currentGoal =
+        "Building scalable AI-powered applications.";
 
 };
 ```
 
 ---
 
-# 🧠 Tech Arsenal
+# 🚀 About Me
 
-<div align="center">
+* 🎓 Electronics & Communication Engineering student at **Thiagarajar College of Engineering**
+* 💻 Passionate about Software Engineering and AI
+* ⚡ Building scalable backend systems and intelligent applications
+* 🤖 Interested in LLMs, Computer Vision and Machine Learning
+* 🌍 Exploring Cloud, DevOps and Distributed Systems
+* 🚀 Always building something new
 
-## Programming Languages
+---
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,go"/>
+# ⚡ Tech Arsenal
 
-<br><br>
+## Languages
 
-## Embedded & Hardware
+<p>
 
-<img src="https://skillicons.dev/icons?i=arduino"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,go,mysql"/>
 
-Verilog • FPGA • Intel Quartus Prime • MATLAB
+</p>
 
-<br><br>
+---
 
-## AI / ML
+## AI & Machine Learning
 
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
+<p>
 
-OpenCV • CNN • Computer Vision • Deep Learning
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv"/>
 
-<br><br>
+</p>
+
+TensorFlow • OpenCV • CNN • Computer Vision • Ollama • LLMs
+
+---
 
 ## Full Stack
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,docker,mysql,git"/>
+<p>
 
-Redis • WebSockets • Yjs • Ollama
+<img src="https://skillicons.dev/icons?i=react,nodejs"/>
 
-</div>
+</p>
 
----
-
-# 📊 Skill Matrix
-
-```text
-Programming           ████████████████████████ 95%
-
-Data Structures       ██████████████████████░ 90%
-
-Embedded Systems      █████████████████████░░ 88%
-
-FPGA                  ████████████████████░░░ 85%
-
-Artificial Intelligence██████████████████░░░░ 82%
-
-Computer Vision       ███████████████████░░░░ 82%
-
-Backend Development   ██████████████████░░░░░ 80%
-
-System Design         ████████████████░░░░░░░ 72%
-```
+React • WebSockets • REST APIs • Redis • MySQL • Yjs
 
 ---
 
-# 🚀 Featured Projects
+## DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux"/>
+
+</p>
+
+Docker • Git • GitHub Actions • Linux • Containerization
+
+---
+
+## Hardware
+
+Verilog • FPGA • Intel Quartus Prime • MATLAB
+
+---
+
+# 📊 Engineering Dashboard
+
+| Domain                  | Progress           |
+| ----------------------- | ------------------ |
+| Artificial Intelligence | █████████████░ 95% |
+| Backend Development     | ████████████░░ 90% |
+| Full Stack              | ███████████░░░ 88% |
+| DevOps                  | █████████░░░░░ 82% |
+| Computer Vision         | ████████████░░ 90% |
+| FPGA Design             | ███████████░░░ 87% |
+
+---
+
+# 🌌 Featured Projects
 
 ## 🤖 AI Powered Real-Time Code Collaboration Platform
 
-```diff
-+ Google Docs for Programming
-```
+> **Google Docs meets VS Code with AI**
 
-### Stack
+**Stack**
 
-`Java` `React` `Docker` `Redis` `MySQL`
-`Yjs`
-`WebSockets`
-`Ollama`
+Java • React • Docker • Redis • MySQL • WebSockets • Yjs • Ollama
 
 ### Features
 
-* Real-time collaborative editor
-* CRDT synchronization
-* Live cursors
-* AI-powered code explanation
-* Dockerized architecture
-* Redis-backed scalability
-* Local LLM integration
-
----
-
-## 🔐 Adaptive FPGA AES Encryption
-
-### Stack
-
-`Verilog HDL`
-`Intel Quartus Prime`
-`FPGA`
-
-### Features
-
-* Adaptive AES
-* Biometric entropy-based encryption
-* Parallel key expansion
-* Hardware optimization
-* High throughput architecture
+* ⚡ Real-time collaborative editing
+* 🧠 AI code explanation
+* 🤖 Local LLM integration
+* 🐳 Dockerized architecture
+* 🔄 CRDT synchronization
+* 🚀 Scalable backend
 
 ---
 
 ## 🔥 AI Fire Detection System
 
-### Stack
+Python • TensorFlow • OpenCV
 
-`Python`
-
-`TensorFlow`
-
-`OpenCV`
-
-### Features
-
-* CNN fire detection
+* CNN based fire detection
+* Real-time inference
 * Smoke detection
 * Image preprocessing
-* Real-time inference
-* High accuracy prediction
+* Deep learning optimization
+
+---
+
+## 🔐 Adaptive FPGA AES Encryption
+
+Verilog HDL • Intel Quartus Prime
+
+* Hardware accelerated AES
+* Adaptive encryption rounds
+* Parallel key expansion
+* FPGA optimization
 
 ---
 
@@ -222,11 +192,7 @@ System Design         ████████████████░░░�
 
 ## 🚀 AI Sprint Intern
 
-### InLab
-
-**Aug 2025 – Dec 2025**
-
-Working on
+**InLab**
 
 * Artificial Intelligence
 * Machine Learning
@@ -235,70 +201,142 @@ Working on
 
 ---
 
-## 🏭 Titan Engineering and Automation Ltd.
+## 🏭 Titan Engineering & Automation Ltd
 
-**Engineering Intern**
+Engineering Intern
 
-Jun 2024 – Jul 2024
+* Industrial Automation
+* Manufacturing Systems
+* Engineering Workflows
 
-Industrial exposure to engineering automation systems.
+---
+
+# 🎓 Education
+
+## Thiagarajar College of Engineering
+
+**B.E Electronics & Communication Engineering**
+
+📈 CGPA **7.99**
+
+2023 — Present
+
+---
+
+## Maharishi Vidya Mandir
+
+Higher Secondary
+
+📊 88.67%
 
 ---
 
 # 🏆 Leadership
 
-## IEEE CASS Chair
+### IEEE Circuits and Systems Society
 
-Leading
+🎯 Chair
 
-* Technical Workshops
-* Embedded Systems Events
-* VLSI Activities
-* Student Community
-
----
-
-## IEEE TEMS Founding Member
-
-Helping establish technical initiatives and innovation culture.
+* Led technical events
+* Organized workshops
+* Managed engineering teams
 
 ---
 
-## Third Year Sports General Captain
+### IEEE TEMS
 
-Leading teams, organizing events, and promoting sportsmanship.
+🚀 Founding Member
+
+---
+
+### Sports
+
+🏅 Third Year General Captain
 
 ---
 
 # 📜 Certifications
 
-🏅 NVIDIA — Fundamentals of Machine Learning
-
-🏅 Microsoft — Artificial Intelligence on Microsoft Azure
+* NVIDIA — Fundamentals of Machine Learning
+* Microsoft — Artificial Intelligence on Azure
 
 ---
 
 # 🌱 Currently Learning
 
 ```text
-✔ Advanced System Design
+████████████████████ AI Engineering
 
-✔ Distributed Systems
+███████████████████ Backend Systems
 
-✔ Linux
+██████████████████ DSA
 
-✔ Cloud Computing
+████████████████ Full Stack
 
-✔ Kubernetes
+██████████████ DevOps
 
-✔ High Performance Computing
+████████████ Kubernetes
+
+██████████ Cloud Computing
+
+████████ Distributed Systems
 ```
 
 ---
 
-# 🌍 Connect With Me
+# 🤝 Open To Collaborate
+
+✔ Artificial Intelligence
+
+✔ Full Stack Development
+
+✔ Backend Engineering
+
+✔ Open Source
+
+✔ DevOps
+
+✔ Computer Vision
+
+✔ Distributed Systems
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vetri4271&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vetri4271&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=vetri4271&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vetri4271&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌍 Connect
+
+<p align="center">
+
+<a href="mailto:vetrivelan@student.tce.edu">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
 <a href="https://github.com/vetri4271">
 <img src="https://skillicons.dev/icons?i=github"/>
@@ -308,68 +346,37 @@ Leading teams, organizing events, and promoting sportsmanship.
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:vetrivelan@student.tce.edu">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
 </p>
 
 ---
 
-# ⚡ Terminal
+# 💭 Philosophy
 
-```bash
-visitor@github:~$ whoami
+> **"Great software isn't just written. It's engineered, deployed, scaled, and continuously improved."**
 
-> Vetrivelan B R
+---
 
-visitor@github:~$ skills
+<p align="center">
 
-> Embedded Systems
+```cpp
+while(alive){
 
-> AI
+    Learn();
 
-> FPGA
+    Build();
 
-> Computer Vision
+    Deploy();
 
-> Full Stack
+    Repeat();
 
-visitor@github:~$ current_status
-
-> Building next-generation intelligent systems...
-
-visitor@github:~$ motivation
-
-> "Learn. Build. Share. Repeat."
+}
 ```
 
----
+⭐ Thanks for visiting my profile.
 
-<div align="center">
+</p>
 
-# 📈 GitHub Analytics
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:0f2027,50:203a43,100:2c5364"/>
 
-<!-- GitHub Stats -->
-
-<!-- GitHub Streak -->
-
-<!-- Top Languages -->
-
-<!-- Activity Graph -->
-
-<!-- GitHub Trophies -->
-
-<!-- Contribution Snake -->
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ *"Engineering the future through intelligent hardware and software."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:8A2BE2&height=150&section=footer"/>
-
-</div>
+```
+```
