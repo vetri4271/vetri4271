@@ -108,22 +108,22 @@ Computer Vision           ██████████░░  92%
 
 <td width="33%" valign="top">
 
-# 🤖 AI Code Collaboration Platform
+# AI Code Collaboration Platform
 
 ### Intelligent Real-Time Collaborative Code Editor
 
 A **Google Docs–style collaborative IDE** built for developers, featuring **live multi-user editing**, AI-powered code assistance, and a scalable containerized backend.
 
-### ✨ Highlights
+###  Highlights
 
-- ⚡ Real-time collaborative editing using **CRDTs (Yjs)**
-- 🌐 WebSocket-powered synchronization
-- 🤖 AI code explanation using **Ollama**
-- 🐳 Dockerized microservice architecture
-- 📦 Redis caching & MySQL persistence
-- 🧠 Monaco Editor integration
-- 🔒 Session-based collaboration
-- 🚀 Low-latency scalable backend
+-  Real-time collaborative editing using **CRDTs (Yjs)**
+-  WebSocket-powered synchronization
+-  AI code explanation using **Ollama**
+-  Dockerized microservice architecture
+-  Redis caching & MySQL persistence
+-  Monaco Editor integration
+-  Session-based collaboration
+-  Low-latency scalable backend
 
 ---
 
@@ -155,21 +155,21 @@ A **Google Docs–style collaborative IDE** built for developers, featuring **li
 
 <td width="33%" valign="top">
 
-# 🔥 AI Fire Detection System
+# AI Fire Detection System
 
 ### Real-Time Computer Vision for Fire & Smoke Detection
 
 An AI-powered surveillance system capable of detecting **fire and smoke in real time** using deep learning and computer vision techniques.
 
-### ✨ Highlights
+### Highlights
 
-- 🔥 Fire detection
-- 💨 Smoke detection
-- 🧠 CNN-based image classification
-- 🎥 Real-time video inference
-- 📸 OpenCV preprocessing pipeline
-- 📊 Dataset training & optimization
-- ⚡ High-speed prediction pipeline
+-  Fire detection
+-  Smoke detection
+-  CNN-based image classification
+-  Real-time video inference
+-  OpenCV preprocessing pipeline
+-  Dataset training & optimization
+-  High-speed prediction pipeline
 
 ---
 
@@ -201,20 +201,20 @@ An AI-powered surveillance system capable of detecting **fire and smoke in real 
 
 <td width="33%" valign="top">
 
-# 🔐 Adaptive FPGA AES Encryption
+#  Adaptive FPGA AES Encryption
 
 ### High-Speed Hardware Cryptography
 
 A hardware implementation of **Adaptive AES Encryption** designed for improved throughput and security using FPGA parallelism.
 
-### ✨ Highlights
+###  Highlights
 
-- 🔒 Adaptive AES architecture
-- ⚡ Parallel key expansion
-- 🧬 Biometric entropy-based encryption
-- 🚀 FPGA hardware acceleration
-- 📈 Optimized latency
-- 🛡 High-throughput encryption engine
+-  Adaptive AES architecture
+-  Parallel key expansion
+-  Biometric entropy-based encryption
+-  FPGA hardware acceleration
+-  Optimized latency
+-  High-throughput encryption engine
 
 ---
 
