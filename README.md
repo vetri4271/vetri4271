@@ -1,152 +1,220 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm **Vetrivelan B R**
+<div align="center">
 
-<h3 align="center">
-Electronics & Communication Engineering Student • Embedded Systems • AI/ML • Full Stack Developer
-</h3>
+<!-- ===================== HERO BANNER ===================== -->
 
-<p align="center">
-<i>Building intelligent software, hardware, and AI-powered solutions.</i>
-</p>
+<img width="100%" src="YOUR_CUSTOM_ANIMATED_BANNER_HERE"/>
 
----
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm **Vetrivelan B R**
 
-## 🚀 About Me
+### ⚡ Embedded Systems Engineer • AI Developer • FPGA Enthusiast • Full Stack Developer
 
-🎓 Final Year **Electronics & Communication Engineering** student at **Thiagarajar College of Engineering, Madurai**.
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Electronics+%26+Communication+Engineering;Embedded+Systems+Developer;Artificial+Intelligence+Engineer;Computer+Vision+Developer;FPGA+Designer;Full+Stack+Developer;Always+Learning+Something+New"/>
 
-💡 I enjoy building projects that bridge **software and hardware**, combining **Artificial Intelligence**, **Embedded Systems**, **FPGA**, **Computer Vision**, and **Full Stack Development**.
+<br>
 
-🔍 I'm passionate about solving real-world engineering problems through scalable software and intelligent embedded solutions.
+<img src="https://komarev.com/ghpvc/?username=vetri4271&style=for-the-badge&color=00F5FF"/>
 
----
+<img src="https://img.shields.io/github/followers/vetri4271?style=for-the-badge&color=00F5FF"/>
 
-## 🎯 Current Focus
+<img src="https://img.shields.io/github/stars/vetri4271?affiliations=OWNER&style=for-the-badge&color=8A2BE2"/>
 
-* 💻 Advanced Data Structures & Algorithms
-* ⚙️ System Design
-* 🤖 Artificial Intelligence & Machine Learning
-* 🧠 Computer Vision
-* 🔐 FPGA Design & Hardware Acceleration
-* 🌐 Full Stack Development
-* 🐧 Linux & Backend Engineering
+</div>
 
 ---
 
-# 🎓 Education
+# ⚡ SYSTEM STATUS
 
-### 🏛 Thiagarajar College of Engineering
+```yaml
+Name        : Vetrivelan B R
 
-**Bachelor of Engineering – Electronics & Communication Engineering**
+Role        : Electronics & Communication Engineering Student
 
-📍 Madurai, India
+Location    : Madurai, India
 
-📅 **2023 – 2027**
+Status      : Building Intelligent Systems...
 
-📈 **CGPA:** **7.99**
+Interests   :
+              • Artificial Intelligence
+              • Embedded Systems
+              • FPGA
+              • Computer Vision
+              • Full Stack Development
+              • System Design
+              • Open Source
 
----
-
-### 🏫 Maharishi Vidya Mandir Higher Secondary School
-
-📍 Hosur
-
-📅 **2023**
-
-📊 **Higher Secondary Percentage:** **88.67%**
-
----
-
-# 💡 Areas of Interest
-
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Database Management Systems
-* Operating Systems
-* Computer Networks
-* Embedded Systems
-* FPGA Design
-* Artificial Intelligence
-* Machine Learning
-* Computer Vision
-* Full Stack Development
+Current Mode: Learning • Building • Innovating
+```
 
 ---
 
-# 🛠 Tech Stack
+# 🛰 About Me
 
-## 👨‍💻 Programming Languages
+```cpp
+class Vetrivelan {
 
-* C
-* C++
-* Java
-* Python
-* Go
-* Verilog HDL
-* MATLAB
+public:
 
----
+string education =
+"Electronics & Communication Engineering";
 
-## ⚡ Technologies & Frameworks
+string university =
+"Thiagarajar College of Engineering";
 
-* Docker
-* Git
-* WebSockets
-* Redis
-* MySQL
-* React
-* TensorFlow
-* OpenCV
-* Ollama
-* Yjs
+double cgpa = 7.99;
 
----
+vector<string> interests = {
 
-# 📂 Featured Projects
+"AI",
 
-## 🤝 AI-Powered Real-Time Code Collaboration Platform
+"Embedded Systems",
 
-**Tech Stack**
+"FPGA",
 
-`Java` • `React` • `WebSockets` • `Docker` • `Redis` • `MySQL` • `Yjs` • `Ollama`
+"Computer Vision",
 
-### ✨ Highlights
+"Distributed Systems",
 
-* Built a collaborative code editor supporting **real-time multi-user editing**
-* Implemented **CRDT synchronization** using **Yjs**
-* Enabled seamless communication with **WebSockets**
-* Integrated **Ollama** for AI-assisted code explanation and generation
-* Containerized services with **Docker**
-* Designed a scalable backend using **Redis** and **MySQL**
+"Full Stack"
 
----
+};
 
-## 🔐 FPGA Implementation of Adaptive AES Encryption
+void life(){
 
-**Tech Stack**
+Learn();
 
-`Verilog HDL` • `Intel Quartus Prime`
+Build();
 
-### ✨ Highlights
+Share();
 
-* Designed an adaptive AES encryption architecture
-* Dynamically adjusted encryption rounds using biometric key entropy
-* Implemented parallel key expansion
-* Optimized encryption throughput on FPGA hardware
+Repeat();
+
+}
+
+};
+```
 
 ---
 
-## 🔥 AI-Based Fire Detection System
+# 🧠 Tech Arsenal
 
-**Tech Stack**
+<div align="center">
 
-`Python` • `TensorFlow` • `OpenCV`
+## Programming Languages
 
-### ✨ Highlights
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,go"/>
 
-* Developed a CNN model for fire and smoke detection
-* Trained and optimized deep learning models using image datasets
-* Applied OpenCV preprocessing for real-time detection
-* Improved inference accuracy for surveillance applications
+<br><br>
+
+## Embedded & Hardware
+
+<img src="https://skillicons.dev/icons?i=arduino"/>
+
+Verilog • FPGA • Intel Quartus Prime • MATLAB
+
+<br><br>
+
+## AI / ML
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+OpenCV • CNN • Computer Vision • Deep Learning
+
+<br><br>
+
+## Full Stack
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,docker,mysql,git"/>
+
+Redis • WebSockets • Yjs • Ollama
+
+</div>
+
+---
+
+# 📊 Skill Matrix
+
+```text
+Programming           ████████████████████████ 95%
+
+Data Structures       ██████████████████████░ 90%
+
+Embedded Systems      █████████████████████░░ 88%
+
+FPGA                  ████████████████████░░░ 85%
+
+Artificial Intelligence██████████████████░░░░ 82%
+
+Computer Vision       ███████████████████░░░░ 82%
+
+Backend Development   ██████████████████░░░░░ 80%
+
+System Design         ████████████████░░░░░░░ 72%
+```
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 AI Powered Real-Time Code Collaboration Platform
+
+```diff
++ Google Docs for Programming
+```
+
+### Stack
+
+`Java` `React` `Docker` `Redis` `MySQL`
+`Yjs`
+`WebSockets`
+`Ollama`
+
+### Features
+
+* Real-time collaborative editor
+* CRDT synchronization
+* Live cursors
+* AI-powered code explanation
+* Dockerized architecture
+* Redis-backed scalability
+* Local LLM integration
+
+---
+
+## 🔐 Adaptive FPGA AES Encryption
+
+### Stack
+
+`Verilog HDL`
+`Intel Quartus Prime`
+`FPGA`
+
+### Features
+
+* Adaptive AES
+* Biometric entropy-based encryption
+* Parallel key expansion
+* Hardware optimization
+* High throughput architecture
+
+---
+
+## 🔥 AI Fire Detection System
+
+### Stack
+
+`Python`
+
+`TensorFlow`
+
+`OpenCV`
+
+### Features
+
+* CNN fire detection
+* Smoke detection
+* Image preprocessing
+* Real-time inference
+* High accuracy prediction
 
 ---
 
@@ -154,13 +222,16 @@ Electronics & Communication Engineering Student • Embedded Systems • AI/ML �
 
 ## 🚀 AI Sprint Intern
 
-**InLab**
+### InLab
 
-📅 Aug 2025 – Dec 2025
+**Aug 2025 – Dec 2025**
 
-* Worked on AI and Machine Learning applications
-* Developed deep learning solutions
-* Collaborated on computer vision projects
+Working on
+
+* Artificial Intelligence
+* Machine Learning
+* Deep Learning
+* Computer Vision
 
 ---
 
@@ -168,132 +239,137 @@ Electronics & Communication Engineering Student • Embedded Systems • AI/ML �
 
 **Engineering Intern**
 
-📅 Jun 2024 – Jul 2024
+Jun 2024 – Jul 2024
 
-* Gained industrial exposure to automation systems
-* Learned manufacturing workflows and engineering practices
+Industrial exposure to engineering automation systems.
 
 ---
 
 # 🏆 Leadership
 
-### 🎯 Chair – IEEE Circuits and Systems Society (CASS)
+## IEEE CASS Chair
 
-* Organized technical workshops
-* Led technical events
-* Promoted Embedded Systems and VLSI learning
+Leading
 
----
-
-### 🚀 Founding Member – IEEE Technology and Engineering Management Society (TEMS)
-
-* Helped establish the student chapter
-* Coordinated technical initiatives
-* Promoted interdisciplinary collaboration
+* Technical Workshops
+* Embedded Systems Events
+* VLSI Activities
+* Student Community
 
 ---
 
-### 🏅 Third Year General Captain – Sports
+## IEEE TEMS Founding Member
 
-* Led inter-department sports teams
-* Organized tournaments and events
-* Coordinated student participation
+Helping establish technical initiatives and innovation culture.
+
+---
+
+## Third Year Sports General Captain
+
+Leading teams, organizing events, and promoting sportsmanship.
 
 ---
 
 # 📜 Certifications
 
-* 🟢 NVIDIA — Fundamentals of Machine Learning
-* 🔵 Microsoft — Artificial Intelligence on Microsoft Azure
+🏅 NVIDIA — Fundamentals of Machine Learning
 
----
-
-# 💪 Core Skills
-
-### Programming
-
-* Object-Oriented Programming
-* Data Structures
-* Algorithms
-* Problem Solving
-
-### Artificial Intelligence
-
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* TensorFlow
-* OpenCV
-
-### Embedded Systems
-
-* FPGA Design
-* Verilog HDL
-* Hardware Acceleration
-
-### Software Engineering
-
-* Full Stack Development
-* Backend Development
-* Real-Time Applications
-* Distributed Systems
+🏅 Microsoft — Artificial Intelligence on Microsoft Azure
 
 ---
 
 # 🌱 Currently Learning
 
-* Advanced System Design
-* Distributed Systems
-* Linux Internals
-* Kubernetes
-* Cloud Computing
-* High-Performance Computing
+```text
+✔ Advanced System Design
+
+✔ Distributed Systems
+
+✔ Linux
+
+✔ Cloud Computing
+
+✔ Kubernetes
+
+✔ High Performance Computing
+```
 
 ---
 
-# 🤝 Let's Collaborate
-
-I'm always interested in collaborating on projects involving:
-
-* 🤖 Artificial Intelligence
-* ⚡ Embedded Systems
-* 🔐 FPGA & Digital Design
-* 👁️ Computer Vision
-* 🌐 Full Stack Applications
-* 🚀 Open Source
-
----
-
-# 📫 Connect With Me
-
-📧 **Email**
-
-> [vetrivelan@student.tce.edu](mailto:vetrivelan@student.tce.edu)
-
-💼 **LinkedIn**
-
-> https://www.linkedin.com/in/vetrivelan-b-r-7b1666374
-
-🐙 **GitHub**
-
-> https://github.com/vetri4271
-
----
-
-# ⚡ Fun Fact
-
-> I love building projects where hardware meets software, creating intelligent systems that solve real-world problems.
-
----
-
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+# 🌍 Connect With Me
 
 <p align="center">
-If you like my work, consider exploring my repositories and connecting with me.
+
+<a href="https://github.com/vetri4271">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vetrivelan-b-r-7b1666374">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:vetrivelan@student.tce.edu">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
 </p>
 
-<p align="center">
-🚀 Happy Coding!
-</p>
+---
+
+# ⚡ Terminal
+
+```bash
+visitor@github:~$ whoami
+
+> Vetrivelan B R
+
+visitor@github:~$ skills
+
+> Embedded Systems
+
+> AI
+
+> FPGA
+
+> Computer Vision
+
+> Full Stack
+
+visitor@github:~$ current_status
+
+> Building next-generation intelligent systems...
+
+visitor@github:~$ motivation
+
+> "Learn. Build. Share. Repeat."
+```
+
+---
+
+<div align="center">
+
+# 📈 GitHub Analytics
+
+<!-- GitHub Stats -->
+
+<!-- GitHub Streak -->
+
+<!-- Top Languages -->
+
+<!-- Activity Graph -->
+
+<!-- GitHub Trophies -->
+
+<!-- Contribution Snake -->
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ *"Engineering the future through intelligent hardware and software."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:8A2BE2&height=150&section=footer"/>
+
+</div>
