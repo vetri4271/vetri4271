@@ -52,7 +52,7 @@ Current_Goal    = "Build scalable AI products"
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:8A2BE2&height=2&width=1000" width="100%"/>
 
-## ⚡ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -88,7 +88,7 @@ Current_Goal    = "Build scalable AI products"
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00F5FF&height=2&width=1000" width="100%"/>
 
-## 📊 Proficiency Dashboard
+##  Proficiency Dashboard
 
 ```text
 Artificial Intelligence   ███████████░  95%
@@ -101,7 +101,7 @@ Computer Vision           ██████████░░  92%
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:8A2BE2&height=2&width=1000" width="100%"/>
 
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
@@ -173,7 +173,7 @@ An AI-powered surveillance system capable of detecting **fire and smoke in real 
 
 ---
 
-### 🛠 Tech Stack
+###  Tech Stack
 
 <p>
 
@@ -268,7 +268,7 @@ A hardware implementation of **Adaptive AES Encryption** designed for improved t
 
 </div>
 
-## 🗺️ 2026 Learning Roadmap
+##  2026 Learning Roadmap
 
 ```text
 AI            ██████████ 100%
@@ -282,7 +282,7 @@ AWS           ███░░░░░░░  30%
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00F5FF&height=2&width=1000" width="100%"/>
 
-## 🌐 Connect
+##  Connect
 
 <div align="center">
 
