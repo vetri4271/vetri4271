@@ -152,11 +152,6 @@ Adaptive encryption on a parallel hardware architecture.
 
 </div>
 
-> 🐍 **Contribution Snake** — add the [snake workflow](https://github.com/Platane/snk) to your repo Actions, then embed:
-> `![snake gif](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg)`
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:8A2BE2&height=2&width=1000" width="100%"/>
-
 ## 🗺️ 2026 Learning Roadmap
 
 ```text
